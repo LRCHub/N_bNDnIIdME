@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "RIGHT LIGHT RISE",
+  "base_artist": "分島花音",
+  "createdAt": "2026-02-16T17:08:32.507461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "Kanon Wakeshima",
+      "has_synced": true,
+      "path": "select/01_RIGHT_LIGHT_RISE_Kanon_Wakeshima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/02_RIGHT_LIGHT_RISE_分島花音.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/03_RIGHT_LIGHT_RISE_分島花音.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "Wakeshima Kanon",
+      "has_synced": true,
+      "path": "select/04_RIGHT_LIGHT_RISE_Wakeshima_Kanon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "Wakeshima, Kanon",
+      "has_synced": false,
+      "path": "select/05_RIGHT_LIGHT_RISE_Wakeshima,_Kanon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/06_RIGHT_LIGHT_RISE_分島花音.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "Wakeshima Kanon",
+      "has_synced": true,
+      "path": "select/07_RIGHT_LIGHT_RISE_Wakeshima_Kanon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RIGHT LIGHT RISE",
+      "artist": "分島花音",
+      "has_synced": false,
+      "path": "select/pl_01_RIGHT_LIGHT_RISE_分島花音.txt"
+    }
+  ]
+}
